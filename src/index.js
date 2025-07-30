@@ -12,8 +12,9 @@ function Hello(props) {
       />
       <p>
         Hello! My name is {props.name}. I'm passionate about engineering and creativity. 
-        I specialize in hair styling tools and innovative beauty tech. I enjoy building things that 
-        combine both form and function to enhance everyday life.
+        I specialize in quality assurance and innovative qa tech. I enjoy building things that 
+        combine both form and function to enhance everyday life. I love exploring new technologies 
+        and finding ways to improve processes and products. Let's connect and create something amazing together!
       </p>
     </div>
   );
